@@ -1549,6 +1549,8 @@ micro_wake_word:
   models:
     - model: https://github.com/kahrendt/microWakeWord/releases/download/okay_nabu_20241226.3/okay_nabu.json
       id: okay_nabu
+    - model: https://github.com/howelljiang/micro-wake-word-models/releases/download/20250413/are_go_are_go.json
+      id: are_go_are_go
     - model: hey_jarvis
       id: hey_jarvis
     - model: hey_mycroft
